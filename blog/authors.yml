@@ -1,17 +1,11 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+ryanokonski:
+  name: Ryan Okonski
+  title: Full Stack Engineer @ CiaHub
+  url: https://github.com/ryanokonski
+  image_url: https://github.com/ryanokonski.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+thiagominoru:
+  name: Thiago Minoru
+  title: Full Stack Engineer @ CiaHub
+  url: https://github.com/thiagominoru
+  image_url: https://github.com/thiagominoru.png
